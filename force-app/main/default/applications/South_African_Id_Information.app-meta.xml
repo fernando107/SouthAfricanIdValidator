@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>South African Id Information</label>
+    <navType>Standard</navType>
+    <tabs>standard-Account</tabs>
+    <tabs>SA_Identification__c</tabs>
+    <tabs>Holiday__c</tabs>
+    <tabs>Id_Validation</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>South_African_Id_Information_UtilityBar</utilityBar>
+</CustomApplication>
